@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<group>
+    <item android:id="@+id/details"
+        android:title="Details" />
+    <item
+        android:title="Guide"
+        android:id="@+id/guide"/>
+    <item android:id="@+id/about"
+        android:title="About"/>
+</group>
+
+
+    <item android:id="@+id/add_subject_menuItem"
+        android:icon="@drawable/ic_input_add"
+        android:title="@string/add_subject_menuIcon"
+        app:showAsAction="ifRoom|withText"/>
+</menu>

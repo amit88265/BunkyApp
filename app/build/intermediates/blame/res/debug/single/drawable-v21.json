@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\AMIT\\.android\\build-cache\\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\AMIT\\.android\\build-cache\\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\AMIT\\.android\\build-cache\\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\AMIT\\.android\\build-cache\\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

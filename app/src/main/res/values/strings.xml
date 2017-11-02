@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bunky</string>
+    <string name="add_subject_menuIcon">Add Subject</string>
+    <string name="Enter_subject">Enter Subject</string>
+    <string name="date_picker_title">Choose Date</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="holiday">Holiday</string>
+    <string name="delete">Delete</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">Octpber</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <string name="month_name_error">error</string>
+    <string name="input_field_empty">Input Field is Empty</string>
+    <string name="exceed_length_of_subject">No more Subject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guide_string">"We are not promoting any type of bunking of class. It is simply for keeping a record of attendace and act accordingly."</string>
+    <string name="about_string">Developed By Amit Kumar DTU/ME/2K15</string>
+    <string name="precent_attendance">% Attendance</string>
+    <string name="total_classes_held">Total classes held</string>
+    <string name="t">maths</string>
+    <string name="remaining_bunk">Available Bunk</string>
+</resources>

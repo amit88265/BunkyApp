@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_menu_date.xml",
+        "source": "D:\\ASWork\\PAMM\\app\\src\\main\\res\\menu\\add_menu_date.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_subject_menu.xml",
+        "source": "D:\\ASWork\\PAMM\\app\\src\\main\\res\\menu\\add_subject_menu.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\PAMM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu_list.xml",
+        "source": "D:\\ASWork\\PAMM\\app\\src\\main\\res\\menu\\context_menu_list.xml"
+    }
+]

@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\AMIT\.android\build-cache\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\AMIT\.android\build-cache\f281261ea2b2487a06865dbe1b203e33385208ef\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\AMIT\.android\build-cache\69c40aaf8d06d3a953a2c40fca7f49604f1130f5\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\AMIT\.android\build-cache\57bf52de90b130a670ef8bb878a609f39641328e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\AMIT\.android\build-cache\d9b1809f3bb644f7bd905c5025e7e0fcea83c0ab\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\AMIT\.android\build-cache\c6a79d0acd3c92f28dcb0b98d28a40eef5910d27\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\AMIT\.android\build-cache\692bccf9f604f89df38c776d651fbcc9e7186c21\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\AMIT\.android\build-cache\e91b293992821b1986e6b25237c40478b8ef5953\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\AMIT\.android\build-cache\73546c59f65eb6317ff1578ffb32dd4b219819aa\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.amit.pamm.MainActivity
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.amit.pamm.DetailActivity
+ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:18:9-20:20
+	android:name
+		ADDED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml:18:19-49
+uses-sdk
+INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\AMIT\.android\build-cache\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\AMIT\.android\build-cache\f281261ea2b2487a06865dbe1b203e33385208ef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\AMIT\.android\build-cache\69c40aaf8d06d3a953a2c40fca7f49604f1130f5\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\AMIT\.android\build-cache\57bf52de90b130a670ef8bb878a609f39641328e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\AMIT\.android\build-cache\d9b1809f3bb644f7bd905c5025e7e0fcea83c0ab\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\AMIT\.android\build-cache\c6a79d0acd3c92f28dcb0b98d28a40eef5910d27\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\AMIT\.android\build-cache\692bccf9f604f89df38c776d651fbcc9e7186c21\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\AMIT\.android\build-cache\e91b293992821b1986e6b25237c40478b8ef5953\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\AMIT\.android\build-cache\73546c59f65eb6317ff1578ffb32dd4b219819aa\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\AMIT\.android\build-cache\d586b3c4a9837e2d58871b03873a1f4a96a5b0fc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\PAMM\app\src\main\AndroidManifest.xml
